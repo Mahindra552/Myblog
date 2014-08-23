@@ -1,4 +1,4 @@
 Myblog
 ======
 
-It has my software sills and experience
+It has my software skills and experience
